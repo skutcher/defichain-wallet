@@ -53,8 +53,8 @@ exports[`Summary Title V2 should match snapshot 1`] = `
       >
         <RNSVGSvgView
           align="xMidYMid"
-          bbHeight="32"
-          bbWidth="32"
+          bbHeight={32}
+          bbWidth={32}
           focusable={false}
           height={32}
           meetOrSlice={0}
@@ -89,8 +89,8 @@ exports[`Summary Title V2 should match snapshot 1`] = `
             }
           >
             <RNSVGCircle
-              cx="16"
-              cy="16"
+              cx={16}
+              cy={16}
               fill={
                 {
                   "payload": 4294901935,
@@ -102,7 +102,7 @@ exports[`Summary Title V2 should match snapshot 1`] = `
                   "fill",
                 ]
               }
-              r="16"
+              r={16}
             />
             <RNSVGPath
               d="M18.217 23.454V8.546c3.21.958 5.555 3.937 5.555 7.454s-2.346 6.496-5.555 7.454M15.994 6v8.428l-1.269-1.27-.162-3.167 1.324-3.985a9.952 9.952 0 00-2.454.338l-.64 1.926-1.816-.91a10.03 10.03 0 00-1.974 1.497l3.363 1.685.098 1.928-1.927-.099L8.85 9.01a10.035 10.035 0 00-1.497 1.973l.911 1.816-1.927.64A9.978 9.978 0 006 15.892l3.986-1.324 3.168.162 1.27 1.27-1.27 1.27-3.168.162L6 16.108c.009.849.13 1.669.338 2.454l1.927.64-.911 1.816c.418.719.92 1.383 1.497 1.973l1.686-3.362 1.927-.099-.098 1.928-3.363 1.685a10.04 10.04 0 001.974 1.498l1.815-.911.64 1.926a9.94 9.94 0 002.455.338l-1.324-3.985.162-3.168 1.27-1.27V26c5.522 0 10-4.477 10-10s-4.478-10-10-10"
@@ -122,8 +122,8 @@ exports[`Summary Title V2 should match snapshot 1`] = `
         </RNSVGSvgView>
         <RNSVGSvgView
           align="xMidYMid"
-          bbHeight="32"
-          bbWidth="32"
+          bbHeight={32}
+          bbWidth={32}
           focusable={false}
           height={32}
           meetOrSlice={0}
@@ -276,6 +276,193 @@ exports[`Summary Title V2 should match snapshot 1`] = `
           ]
         }
       >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight={20}
+          bbWidth={20}
+          fill="none"
+          focusable={false}
+          height={20}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 20,
+                "width": 20,
+              },
+            ]
+          }
+          vbHeight={20}
+          vbWidth={20}
+          width={20}
+        >
+          <RNSVGGroup
+            fill={null}
+            propList={
+              [
+                "fill",
+              ]
+            }
+          >
+            <RNSVGMask
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              height={20}
+              maskContentUnits={1}
+              maskType={0}
+              maskUnits={1}
+              name="random-avatar-mask-_r0_"
+              width={20}
+              x={0}
+              y={0}
+            >
+              <RNSVGRect
+                fill={
+                  {
+                    "payload": 4294967295,
+                    "type": 0,
+                  }
+                }
+                height={20}
+                propList={
+                  [
+                    "fill",
+                  ]
+                }
+                rx={40}
+                width={20}
+                x={0}
+                y={0}
+              />
+            </RNSVGMask>
+            <RNSVGGroup
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              mask="random-avatar-mask-_r0_"
+            >
+              <RNSVGRect
+                fill={
+                  {
+                    "payload": 4284158207,
+                    "type": 0,
+                  }
+                }
+                height={20}
+                propList={
+                  [
+                    "fill",
+                  ]
+                }
+                width={20}
+                x={0}
+                y={0}
+              />
+              <RNSVGRect
+                fill={
+                  {
+                    "payload": 4294945863,
+                    "type": 0,
+                  }
+                }
+                height={10}
+                matrix={
+                  [
+                    -0.6691306063588582,
+                    0.7431448254773942,
+                    -0.7431448254773942,
+                    -0.6691306063588582,
+                    26.122754318362524,
+                    7.25985780881464,
+                  ]
+                }
+                propList={
+                  [
+                    "fill",
+                  ]
+                }
+                width={20}
+                x={2.5}
+                y={7.5}
+              />
+              <RNSVGCircle
+                cx={10}
+                cy={10}
+                fill={
+                  {
+                    "payload": 4278234397,
+                    "type": 0,
+                  }
+                }
+                matrix={
+                  [
+                    1,
+                    0,
+                    0,
+                    1,
+                    3,
+                    -3,
+                  ]
+                }
+                propList={
+                  [
+                    "fill",
+                  ]
+                }
+                r={4}
+              />
+              <RNSVGLine
+                fill={
+                  {
+                    "payload": 4278190080,
+                    "type": 0,
+                  }
+                }
+                matrix={
+                  [
+                    -0.10452846326765336,
+                    -0.9945218953682734,
+                    0.9945218953682734,
+                    -0.10452846326765336,
+                    -2.8999343210061994,
+                    24.990503586359267,
+                  ]
+                }
+                propList={
+                  [
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                stroke={
+                  {
+                    "payload": 4279316113,
+                    "type": 0,
+                  }
+                }
+                strokeWidth={2}
+                x1={0}
+                x2={20}
+                y1={10}
+                y2={10}
+              />
+            </RNSVGGroup>
+          </RNSVGGroup>
+        </RNSVGSvgView>
         <Text
           ellipsizeMode="middle"
           numberOfLines={1}
